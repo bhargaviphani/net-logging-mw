@@ -1,0 +1,1 @@
+Logging can be implemented via ELK Stack, or it can be recorded in a txt file by using Serilog option.
